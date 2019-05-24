@@ -1,23 +1,32 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 
-[<img align="left" src="Images/ReadMe/App.png" width="64px" >](https://github.com/Office-projects/Access-examples/blob/master/Access_Example_VBA.accdb?raw=true "Download File")
+<img align="left" src="Images/ReadMe/App.png" width="64px" >
 
 # Microsoft Access Examples
+Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Microsoft Access database file
+
+<!--[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 ![current_build Office_2016](https://img.shields.io/badge/current_build-Office_2016-red.svg)
-
-Various examples of code in an [Microsoft Access database file](https://github.com/Office-projects/Access-examples/raw/master/Access_Example_VBA.accdb?raw=true "Download the MS Access file")
+[![Latest Release](https://img.shields.io/github/release/Access-projects/Access-examples.svg?label=latest%20release)](https://github.com/Access-projects/Access-examples/releases)
+[![Github commits (since latest release)](https://img.shields.io/github/commits-since/Access-projects/Access-examples/latest.svg)](https://github.com/Access-projects/Access-examples/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/Access-projects/Access-examples.svg)](https://github.com/Access-projects/Access-examples/issues)
+<!--[![Github All Releases](https://img.shields.io/github/downloads/Access-projects/Access-examples/total.svg)](https://github.com/Access-projects/Access-examples/releases)-->
 
 ## Table of Contents
+ - <a href="#references">References</a>
  - <a href="#cmd-line">Command Line Options</a>
  - <a href="#object-list">Object Listing Reference</a>
- - Software
-   - [Microsoft Access Find & Replace Add-in](http://www.rickworld.com/products.html)
-   - [Microsoft Access Merge & Diff](http://www.accdbmerge.net/download)
- - Books
-   - [O'Reilly Access Database Design & Programming, 3rd Edition](http://shop.oreilly.com/product/9780596002732.do)
-   
-<a id="user-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
+
+<a id="user-content-references" class="anchor" href="#references" aria-hidden="true"> </a>
+### References
+|Link                        |Type                 |
+|:-------------------------------|:--------------------------|
+|[Microsoft Access Find & Replace Add-in](http://www.rickworld.com/products.html)|Software|
+|[Microsoft Access Merge & Diff](http://www.accdbmerge.net/download)|Software|
+|[O'Reilly Access Database Design & Programming, 3rd Edition](http://shop.oreilly.com/product/9780596002732.do)|Book|
+
+<a id="user-content-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
 
 <kbd>
 <table>
@@ -96,7 +105,7 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <br>
 <br>
 
-<a id="user-object-list" class="anchor" href="#object-list" aria-hidden="true"> </a>
+<a id="user-content-object-list" class="anchor" href="#object-list" aria-hidden="true"> </a>
 
 <kbd>
 <table>
